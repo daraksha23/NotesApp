@@ -9,6 +9,6 @@
    ``` 
    
    
-   [Read Documentation]: https://www.npmjs.com/package/chalk
+   [Read Documentation](https://www.npmjs.com/package/chalk)
    
    * yargs npm Module
