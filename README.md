@@ -5,10 +5,14 @@
  
    * Chalk npm Module
    ``` Chalk
-   Chalk Library File is used to implement color code console output to display errors and successfull tasks 
+   Chalk npm Module is used to implement color code console output to display errors and successfull tasks 
    ``` 
-   
-   
+ 
    [Read Documentation](https://www.npmjs.com/package/chalk)
    
    * yargs npm Module
+   ``` yargs
+   yargs npm Module is used to create cmd functionality in node applications.
+   ```
+   
+   [Read Documentation](https://www.npmjs.com/package/yargs)
